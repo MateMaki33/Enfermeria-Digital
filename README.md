@@ -58,9 +58,9 @@ Y bueno ... a nivel de España vamos atrasaditos también:
 ---
 
 
-
 ### ❓ EXISTE ALGO ASÍ
 
+Pues si. Ya hay puestos de trabajo enfocados a la enfermeria digital
 
 ![indeed job](./DataAnalitycs.PNG)
 ![indeed job](./InformatisticNurse.PNG)
@@ -72,3 +72,5 @@ Y bueno ... a nivel de España vamos atrasaditos también:
 
 Enfermería es la columna vertebral de cualquier sistema sanitario. Por ello, considero
 que es fundamental que esté presente en los procesos de digitalización. No solo como desarrolladores, aquellos que tengan las habilidades necesarias, sino liderando proyectos enfocados a digitalizar procesos de salud.  
+
+De esto ya se están dando cuenta a nivel Internacional.
